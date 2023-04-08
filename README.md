@@ -1,16 +1,17 @@
-# assignment
+# Assignment
+## Here's the project outlook on Pixel XL
+### HomePage
 
-A new Flutter project.
+ ![image](https://user-images.githubusercontent.com/84221466/230720379-61d8fe68-6255-4936-9f49-75ed1d35f092.png)
 
-## Getting Started
+### The Revenue Page-
+ ![image](https://user-images.githubusercontent.com/84221466/230720421-6188892d-8ea0-4fc8-9e87-b1ab5d164a39.png)
 
-This project is a starting point for a Flutter application.
+### The Setting's Page-
+ ![image](https://user-images.githubusercontent.com/84221466/230720444-3a6a2b18-8c47-4fbe-a45c-243d88584eb5.png)
 
-A few resources to get you started if this is your first Flutter project:
+### The Account's Page-
+ ![image](https://user-images.githubusercontent.com/84221466/230720472-d4dc5256-771c-4fb4-aa52-06504a0991c7.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## As the device differs, the outlook may vary as the media query part hasn't been implemented yet.
